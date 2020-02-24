@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./static/maratonadev.svg" 
 style="margin: -15px 0;"
-width="350px"
+width="450px"
 align="center" 
 alt="maratonadev3">
 </p>
