@@ -21,6 +21,9 @@ A ideia do projeto é:
 **"Incentivar, encontrar e registrar doadores de sangue".**
 
 ## Frontend
+
+**obs: imagem com zoom out de 50%**
+
 <p align="center">
 <img src="./static/frontend.png" alt="frontend">
 </p>
