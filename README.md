@@ -27,6 +27,7 @@ A ideia do projeto é:
 <p align="center">
 <img src="./static/frontend.png" alt="frontend">
 </p>
+
 ## 🚀 Instalação
 
 ### Instalando
