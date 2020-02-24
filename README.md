@@ -2,7 +2,6 @@
 <img src="./static/maratonadev.svg" 
 style="margin: -15px 0;"
 width="450px"
-align="center" 
 alt="maratonadev3">
 </p>
 <h1 align="center" >Maratona Dev 3</h1>
@@ -22,7 +21,9 @@ A ideia do projeto é:
 **"Incentivar, encontrar e registrar doadores de sangue".**
 
 ## Frontend
-![Frontend](./static/frontend(1).png)
+<p align="center">
+<img src="./static/frontend(1).png" alt="frontend">
+</p>
 ## 🚀 Instalação
 
 ### Instalando
